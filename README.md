@@ -39,6 +39,7 @@ Users should be able to:
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
 ### What I learned
+1. Adding A Variable Font : If it has more than one...you should add them individually specifying the font style and weight.
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
